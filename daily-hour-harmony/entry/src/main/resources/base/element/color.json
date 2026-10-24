@@ -1,0 +1,76 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "toolbar_bg",
+      "value": "#303030"
+    },
+    {
+      "name": "page_bg",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "card_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "header_bg",
+      "value": "#FAFAFA"
+    },
+    {
+      "name": "text_primary",
+      "value": "#212121"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#757575"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#BDBDBD"
+    },
+    {
+      "name": "track",
+      "value": "#E0E0E0"
+    },
+    {
+      "name": "divider",
+      "value": "#E4E4E4"
+    },
+    {
+      "name": "accent",
+      "value": "#FFB300"
+    },
+    {
+      "name": "success",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "danger",
+      "value": "#D32F2F"
+    },
+    {
+      "name": "today_bg",
+      "value": "#0A000000"
+    },
+    {
+      "name": "dimension_0",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "dimension_1",
+      "value": "#9C27B0"
+    },
+    {
+      "name": "dimension_2",
+      "value": "#2196F3"
+    },
+    {
+      "name": "dimension_3",
+      "value": "#FF9800"
+    }
+  ]
+}
